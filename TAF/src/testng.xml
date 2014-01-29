@@ -1,0 +1,20 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TAF">
+
+ <parameter name="selenium.host" value="localhost" />
+  <parameter name="selenium.port" value="3306" />
+  <parameter name="selenium.browser" value="*firefox" />
+
+<test name="MainTest">
+    <classes>
+    
+    	<class name="com.tnf.testcases.MainTest" ></class>
+   
+        	
+    </classes>
+  
+</test>
+</suite>
+
+
+

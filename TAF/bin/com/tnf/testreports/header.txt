@@ -1,0 +1,21 @@
+<HTML><META HTTP-EQUIV="REFRESH" CONTENT="30"><HEAD>
+<title>TAF_Regression  - Automation testing results</title>
+<script>
+function result(id, textValue) {
+    document.getElementById(id).innerHTML = textValue;
+}
+</script>
+</HEAD>
+<BODY bgcolor=white><table border=0><tbody><tr><td align=left></td></tr></table></p>
+<p align=center><TABLE border=1  width="100%"><TR>
+<TH  vAlign=bottom align=Left bgcolor = White><B><FONT color=#8d110e face=arial size=3><img src="M:\selenium\t&f.bmp" border=0> </FONT></B></TH>
+<TH  vAlign=bottom align=Right bgcolor = White><B><FONT  color = Black FACE=Arial size=6>TAF execution report</FONT></FONT></B></TH>
+<p align=center><TABLE border=1  width="100%"><TR>
+<P align=center><TABLE border=1 cellPadding=3 cellSpacing=0 width='100%'><TR bgcolor=#8d110e>
+<TR><TH colSpan=1 height=25 vAlign=top align=Left><B><FONT color=Black face=arial size=3>Project Name: </b>TAF_Regression</FONT></B></TH></TR>
+<TR><TH colSpan=1 height=25 vAlign=top align=Left><B><FONT color=Black face=arial size=3>Executed By : </b>QA GROUP</FONT></B></TH></TR>
+<TR><TH colSpan=1 height=25 vAlign=top align=Left><B><FONT color=Black face=arial size=3>Run Date: </b>28/01/2014</FONT></B></TH></TR>
+</TBODY></TABLE></P>
+<P align=center><TABLE border=1 cellPadding=3 cellSpacing=0 width='100%'><TR bgcolor=#8d110e>
+<TR><TH colSpan=1 height=25 vAlign=top align=Left><B><FONT color=#8d110e face=arial size=3>   Test Case Details </FONT></B></TH></TR>
+<Table Border Width=100%>

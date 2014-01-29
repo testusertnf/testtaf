@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="UKVACQA01" name="com.tnf.testcases.MainTest" tests="1" failures="0" timestamp="9 Jan 2014 07:27:51 GMT" time="2285.083" errors="0">
+  <testcase name="applicationTest" time="2285.072" classname="com.tnf.testcases.MainTest"/>
+</testsuite>

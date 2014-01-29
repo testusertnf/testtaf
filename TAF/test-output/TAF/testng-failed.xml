@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [TAF]">
+  <parameter name="selenium.browser" value="*firefox"/>
+  <parameter name="selenium.port" value="3306"/>
+  <parameter name="selenium.host" value="localhost"/>
+  <test name="MainTest(failed)" preserve-order="false">
+    <parameter name="selenium.browser" value="*firefox"/>
+    <parameter name="selenium.port" value="3306"/>
+    <parameter name="selenium.host" value="localhost"/>
+    <classes>
+      <class name="com.tnf.testcases.MainTest">
+        <methods>
+          <include name="applicationTest"/>
+        </methods>
+      </class>
+    </classes>
+  </test>
+</suite>
