@@ -1,5 +1,5 @@
 package com.tnf.testcases;
-//code is in GitHub - by hari
+//code is in GitHub -
 import java.awt.AWTException;
 import java.util.ArrayList;
 import java.util.List;
